@@ -132,7 +132,7 @@ while True:
         
         
     elif option == '5': 
-        lottery.get_win_toy()
+        lottery.deli()
     
     elif option == '4': 
         lottery.print_toys()
